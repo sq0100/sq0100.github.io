@@ -49,3 +49,18 @@ git web : <https:github.om>
 
 > hello world    
 > dkkkkkkkkkkkkkk
+
+\\ \*  \. . .
+    
+    ~~hello~~    
+
+    :+1
+    :-1:
+       
+              
+:+1:              
+     
+
+| a | b | c |
+| ---- | :---: | ---: |
+| d | eeeee  |  fddddd |
