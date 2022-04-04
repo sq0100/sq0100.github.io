@@ -39,13 +39,13 @@
 ![img](h1.jpg)
 
 
-[baidu](www.baidu.com)     
+[baidu](https://www.baidu.com)     
 
          
 
 
 
-git web : <https:github.om>
+git web : <https://github.com>
 
 > hello world    
 > dkkkkkkkkkkkkkk
