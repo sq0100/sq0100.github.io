@@ -1,13 +1,29 @@
+---
+dd
+---
+
 # Welcome to my github web!
- 
+
+
+
+
+
+
+
+
+
 
 ## USB DC ADJ
- 
+
 
 ## **PLC**  
 
- 
+
 ## *TST*
+
+[^]: 
+
+
 
 ### List
 1. python
@@ -26,8 +42,8 @@
 
 -----
 
-    
-        
+
+​        
 
 [h2](h2.md)
 ![h2](h2.jpg)
@@ -41,7 +57,7 @@
 
 [baidu](https://www.baidu.com)     
 
-         
+​         
 
 
 
@@ -53,18 +69,19 @@ git web : <https://github.com>
 \\ \*  \. . .
     
     ~~hello~~    
-
+    
     :+1
     :-1:
-       
-              
+
+
+​              
 :+1:              
-     
+​     
 
 | a | b | c |
 | ---- | :---: | ---: |
 | d | eeeee  |  fddddd |
-       
+
 
 
 
