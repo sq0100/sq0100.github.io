@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+# Site
+title: 小易科技 
+subtitle: 专门制作易于使用的产品
+description: 
+keywords:
+author: sq
+language: zh-CN
+timezone: ''
