@@ -1,6 +1,8 @@
 ---
-title: Hello World ÄãºÃ£¬ÊÀ®q1„1¤77
+title: Hello World ä½ å¥½ï¼Œä¸–ç•Œï¼
 ---
+title: README.md
+
 # Welcome to my github web!
 
  
@@ -37,7 +39,7 @@ title: Hello World ÄãºÃ£¬ÊÀ®q1„1¤77
 -----
 
 
-ÄãºÃ ÊÀ½ç    
+ä½ å¥½ ä¸–ç•Œ    
 
 [h2](h2.md)
 ![h2](h2.jpg)
@@ -51,7 +53,7 @@ title: Hello World ÄãºÃ£¬ÊÀ®q1„1¤77
 
 [baidu](https://www.baidu.com)     
 
-â€„1¤71ï¿„1¤77         
+å¥½å¥½ï¼Œä¸–åŠž
 
 
 
@@ -68,9 +70,9 @@ git web : <https://github.com>
     :-1:
 
 
-â€„1¤71ï¿„1¤77              
+éˆ¥ï¿½1ï¿½71é”Ÿï¿½1ï¿½77              
 :+1:              
-â€„1¤71ï¿„1¤77     
+éˆ¥ï¿½1ï¿½71é”Ÿï¿½1ï¿½77     
 
 | a | b | c |
 | ---- | :---: | ---: |
