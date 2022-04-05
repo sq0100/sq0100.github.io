@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "homebrew": "^0.1.0",
-    "tocmd": "^1.0.1"
-  }
-}
