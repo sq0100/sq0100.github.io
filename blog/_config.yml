@@ -105,5 +105,5 @@ theme: auto
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/sq0100/sq0100.github.io.git
+  repo: https://gitee.com/sq0100/sq0100.github.io.git
   branch: master
