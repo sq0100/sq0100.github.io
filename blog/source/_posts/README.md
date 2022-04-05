@@ -1,20 +1,9 @@
 ---
-title: Hello World ä½ å¥½ï¼Œä¸–ç•Œ
+title: Hello World ÄãºÃ£¬ÊÀ®q1„1¤77
 ---
 # Welcome to my github web!
 
-
-- [Welcome to my github web!](#welcome-to-my-github-web)
-  - [USB DC ADJ](#usb-dc-adj)
-  - [**PLC**](#plc)
-  - [*TST*](#tst)
-    - [List](#list)
-    - [List no num](#list-no-num)
-      - [list 2](#list-2)
-
-
-
-
+ 
 
 
 
@@ -48,7 +37,7 @@ title: Hello World ä½ å¥½ï¼Œä¸–ç•Œ
 -----
 
 
-ä½ å¥½ ä¸–ç•Œ    
+ÄãºÃ ÊÀ½ç    
 
 [h2](h2.md)
 ![h2](h2.jpg)
@@ -62,7 +51,7 @@ title: Hello World ä½ å¥½ï¼Œä¸–ç•Œ
 
 [baidu](https://www.baidu.com)     
 
-éˆ¥ï¿½1é”Ÿï¿½7         
+â€„1¤71ï¿„1¤77         
 
 
 
@@ -79,9 +68,9 @@ git web : <https://github.com>
     :-1:
 
 
-éˆ¥ï¿½1é”Ÿï¿½7              
+â€„1¤71ï¿„1¤77              
 :+1:              
-éˆ¥ï¿½1é”Ÿï¿½7     
+â€„1¤71ï¿„1¤77     
 
 | a | b | c |
 | ---- | :---: | ---: |
