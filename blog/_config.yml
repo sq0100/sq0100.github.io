@@ -98,9 +98,10 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: auto2
+theme: omega
 #theme: volantis
 #theme: miho
+#theme: auto2
 
 
 # Deployment
