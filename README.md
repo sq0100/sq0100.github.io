@@ -31,3 +31,21 @@ $ hexo new "Hello Hexo"
 Generate static files
 
 $ hexo generate
+
+
+hexo:
+hexo g && hexo s
+hexo d
+
+git:
+git add . && git commit -m "rename to xiaoyidianzi" && git push
+
+推送命令
+hexo d
+1
+2
+扩展：
+
+其中 hexo clean清除了你之前生成的东西，也可以不加。
+hexo generate 顾名思义，生成静态文章，可以用 hexo g缩写
+hexo deploy 部署文章，可以用hexo d缩写
